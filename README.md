@@ -1,5 +1,5 @@
-# Calculator
-A General-Purpose Calculator<br>
+# Calculator Website
+A General-Purpose Calculator <br>
 <h3>perform basic operations</h3>
 <ul>
   <li>Addition</li>
